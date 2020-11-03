@@ -1,0 +1,9 @@
+/**
+ * Easy HTTP Library
+ * Library for making HTTP requests
+ *
+ * @version 2.0.0
+ * @author Jasja Prick
+ * @license MIT
+ *
+ **/
